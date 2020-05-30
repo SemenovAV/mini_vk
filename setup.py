@@ -5,7 +5,7 @@ with open("README.md", "r", encoding='utf8') as fh:
 
 setup(
     name='mini_vk',
-    version='0.1.2',
+    version='0.1.3',
     packages=find_packages(),
     install_requires=['requests', ],
     url="https://github.com/SemenovAV/mini_vk",
